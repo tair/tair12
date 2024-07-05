@@ -1,0 +1,119 @@
+##gff-version 3
+##sequence-region Chr2 1 27782540
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8655036	8655806	.	-	.	ID=AT2G00000;other=gene: ccmC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8667199	8667423	.	-	.	ID=AT2G00000;other=gene: atp9
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8671175	8671248	.	-	.	ID=AT2G00000;other=gene: trnD GTC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8684144	8684222	.	+	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8685352	8685708	.	+	.	ID=AT2G00000;other=gene: nad3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8685754	8686131	.	+	.	ID=AT2G00000;other=gene: rps12
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8688888	8689499	.	+	.	ID=AT2G00000;other=gene: ccmFN2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8691784	8691855	.	+	.	ID=AT2G00000;other=gene: trnQ TTG
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8696208	8696281	.	+	.	ID=AT2G00000;other=gene: trnW CCA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8705605	8706375	.	+	.	ID=AT2G00000;other=gene: ccmC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8713320	8714468	.	+	.	ID=AT2G00000;other=gene: ccmFN1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8718674	8718745	.	-	.	ID=AT2G00000;other=gene: trnE TTC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8718784	8718858	.	-	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8719165	8719252	.	-	.	ID=AT2G00000;other=gene: trnS GCT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8726892	8727356	.	-	.	ID=AT2G00000;other=gene: sdh4
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8727284	8728081	.	-	.	ID=AT2G00000;other=gene: cox3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8743762	8743834	.	+	.	ID=AT2G00000;other=gene: trnK TTT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8743875	8743968	.	+	.	ID=AT2G00000;other=gene: rps19
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8756150	8756221	.	+	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8758945	8759247	.	+	.	ID=AT2G00000;other=gene: nad4L
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8759514	8760093	.	+	.	ID=AT2G00000;other=gene: atp4
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8771359	8773484	.	+	.	ID=AT2G00000;other=gene: cox2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8782909	8783529	.	-	.	ID=AT2G00000;other=gene: ccmB
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8785023	8785095	.	+	.	ID=AT2G00000;other=gene: trnK TTT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8785136	8785229	.	+	.	ID=AT2G00000;other=gene: rps19
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8785260	8788513	.	+	.	ID=AT2G00000;other=gene: rps3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8788380	8788919	.	+	.	ID=AT2G00000;other=gene: rpl16
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8789760	8790332	.	+	.	ID=AT2G00000;other=gene: nad9
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8791912	8793431	.	+	.	ID=AT2G00000;other=gene: nad5_3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8801853	8805021	.	+	.	ID=AT2G00000;other=gene: rrn26
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8817594	8819528	.	+	.	ID=AT2G00000;other=gene: rrn18
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8819699	8819816	.	+	.	ID=AT2G00000;other=gene: rrn5
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8821141	8821214	.	+	.	ID=AT2G00000;other=gene: trnH GTG
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8829472	8831055	.	+	.	ID=AT2G00000;other=gene: cox1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8843142	8843214	.	-	.	ID=AT2G00000;other=gene: trnM CAT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8847157	8847231	.	+	.	ID=AT2G00000;other=gene: trnY GTA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8847775	8852998	.	+	.	ID=AT2G00000;other=gene: nad2_2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8862496	8862880	.	+	.	ID=AT2G00000;other=gene: nad1_1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8865811	8866257	.	-	.	ID=AT2G00000;other=gene: rps7
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8877177	8878700	.	+	.	ID=AT2G00000;other=gene: atp1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8882823	8883980	.	+	.	ID=AT2G00000;other=gene: atp6
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8884026	8884112	.	+	.	ID=AT2G00000;other=gene: trnS TGA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8891717	8892883	.	+	.	ID=AT2G00000;other=gene: nad1_2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8901650	8901874	.	-	.	ID=AT2G00000;other=gene: atp9
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8905626	8905699	.	-	.	ID=AT2G00000;other=gene: trnD GTC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8918596	8918674	.	+	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8919803	8920159	.	+	.	ID=AT2G00000;other=gene: nad3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8920205	8920582	.	+	.	ID=AT2G00000;other=gene: rps12
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8923339	8923949	.	+	.	ID=AT2G00000;other=gene: ccmFN2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8926235	8926306	.	+	.	ID=AT2G00000;other=gene: trnQ TTG
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8930658	8930731	.	+	.	ID=AT2G00000;other=gene: trnW CCA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8940026	8940796	.	+	.	ID=AT2G00000;other=gene: ccmC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8947685	8948833	.	+	.	ID=AT2G00000;other=gene: ccmFN1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8953039	8953110	.	-	.	ID=AT2G00000;other=gene: trnE TTC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8953149	8953223	.	-	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8953530	8953617	.	-	.	ID=AT2G00000;other=gene: trnS GCT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8961257	8961721	.	-	.	ID=AT2G00000;other=gene: sdh4
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8961649	8962446	.	-	.	ID=AT2G00000;other=gene: cox3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8978465	8978537	.	-	.	ID=AT2G00000;other=gene: trnM CAT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8982480	8982554	.	+	.	ID=AT2G00000;other=gene: trnY GTA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8983098	8988321	.	+	.	ID=AT2G00000;other=gene: nad2_2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	8997819	8998203	.	+	.	ID=AT2G00000;other=gene: nad1_1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9001135	9001581	.	-	.	ID=AT2G00000;other=gene: rps7
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9012502	9014025	.	+	.	ID=AT2G00000;other=gene: atp1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9018148	9019305	.	+	.	ID=AT2G00000;other=gene: atp6
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9019351	9019437	.	+	.	ID=AT2G00000;other=gene: trnS TGA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9027040	9028206	.	+	.	ID=AT2G00000;other=gene: nad1_2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9036973	9037197	.	-	.	ID=AT2G00000;other=gene: atp9
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9040949	9041022	.	-	.	ID=AT2G00000;other=gene: trnD GTC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9053917	9053995	.	+	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9055124	9055480	.	+	.	ID=AT2G00000;other=gene: nad3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9055526	9055903	.	+	.	ID=AT2G00000;other=gene: rps12
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9058660	9059270	.	+	.	ID=AT2G00000;other=gene: ccmFN2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9061556	9061627	.	+	.	ID=AT2G00000;other=gene: trnQ TTG
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9065979	9066052	.	+	.	ID=AT2G00000;other=gene: trnW CCA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9075347	9076117	.	+	.	ID=AT2G00000;other=gene: ccmC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9083062	9084210	.	+	.	ID=AT2G00000;other=gene: ccmFN1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9088416	9088487	.	-	.	ID=AT2G00000;other=gene: trnE TTC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9088527	9088600	.	-	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9088907	9088994	.	-	.	ID=AT2G00000;other=gene: trnS GCT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9096633	9097097	.	-	.	ID=AT2G00000;other=gene: sdh4
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9097025	9097822	.	-	.	ID=AT2G00000;other=gene: cox3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9113842	9113914	.	-	.	ID=AT2G00000;other=gene: trnM CAT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9117857	9117931	.	+	.	ID=AT2G00000;other=gene: trnY GTA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9118475	9123698	.	+	.	ID=AT2G00000;other=gene: nad2_2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9133196	9133580	.	+	.	ID=AT2G00000;other=gene: nad1_1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9136512	9136958	.	-	.	ID=AT2G00000;other=gene: rps7
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9147677	9149200	.	+	.	ID=AT2G00000;other=gene: atp1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9153323	9154480	.	+	.	ID=AT2G00000;other=gene: atp6
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9154526	9154612	.	+	.	ID=AT2G00000;other=gene: trnS TGA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9168576	9168649	.	-	.	ID=AT2G00000;other=gene: tRNAI CAT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9171464	9171940	.	+	.	ID=AT2G00000;other=gene: atp8
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9173626	9179706	.	+	.	ID=AT2G00000;other=gene: nad7
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9182331	9184607	.	-	.	ID=AT2G00000;other=gene: nad5_1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9184827	9188655	.	-	.	ID=AT2G00000;other=gene: nad1_3
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9185900	9187870	.	-	.	ID=AT2G00000;other=gene: matR
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9196354	9199054	.	+	.	ID=AT2G00000;other=gene: rpl2
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9199218	9200061	.	+	.	ID=AT2G00000;other=gene: mttB
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9227125	9229412	.	-	.	ID=AT2G00000;other=gene: ccmFC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9229537	9229608	.	-	.	ID=AT2G00000;other=gene: trnG GCC
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9233576	9234133	.	+	.	ID=AT2G00000;other=gene: rpl5
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9234135	9234436	.	+	.	ID=AT2G00000;other=gene: rps14
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9236037	9237218	.	+	.	ID=AT2G00000;other=gene: cob
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9238151	9238237	.	+	.	ID=AT2G00000;other=gene: trnS GGA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9247252	9247325	.	+	.	ID=AT2G00000;other=gene: trnfM CAT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9252440	9253057	.	-	.	ID=AT2G00000;other=gene: nad6
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9255489	9257014	.	-	.	ID=AT2G00000;other=gene: nad2_1
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9257778	9258866	.	-	.	ID=AT2G00000;other=gene: rps4
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9269099	9269169	.	-	.	ID=AT2G00000;other=gene: trnfM CAT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9279556	9279643	.	+	.	ID=AT2G00000;other=gene: trnS GCT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9279950	9280024	.	+	.	ID=AT2G00000;other=gene: trnF
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9280186	9280260	.	+	.	ID=AT2G00000;other=gene: trnP TGG
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9280616	9280686	.	+	.	ID=AT2G00000;other=gene: trnC GCA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9281614	9281685	.	+	.	ID=AT2G00000;other=gene: trnN GTT
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9282532	9282614	.	+	.	ID=AT2G00000;other=gene: trnY GTA
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9287493	9288650	.	+	.	ID=AT2G00000;other=gene: atp6
+Chr2	Arabidopsis12	nuclear_mt_pseudogene	9288696	9288782	.	+	.	ID=AT2G00000;other=gene: trnS TGA
